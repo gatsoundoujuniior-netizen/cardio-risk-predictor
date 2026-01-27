@@ -110,7 +110,7 @@ Le modèle a été rigoureusement testé sur 7 cas cliniques représentatifs :
 | 6 | 30 ans, facteurs de risque | 63.64% | ⚠️ Surestimé |
 | 7 | 68 ans, très sain | 45.45% | ⚠️ Surestimé |
 
-📄 [Rapport de validation complet](docs/rapport_validation.docx)
+📄 [Rapport de validation complet](https://github.com/gatsoundoujuniior-netizen/cardio-risk-predictor/blob/main/Rapport_Validation_Modele_Cardiovasculaire%20(1).docx)
 
 ## 🎯 Performance du modèle
 
