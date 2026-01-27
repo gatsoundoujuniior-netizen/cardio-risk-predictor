@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-👉 **Try the app:** *[Add your Streamlit link here after deployment](https://gatsoundoujuniior-netizen-bxdkpg4wsv2bklsdacxige.streamlit.app/)*
+👉 **Try the app:** *[App](https://gatsoundoujuniior-netizen-bxdkpg4wsv2bklsdacxige.streamlit.app/)*
 
 ---
 
