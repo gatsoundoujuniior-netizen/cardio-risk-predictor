@@ -8,13 +8,13 @@
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-👉 **Try the app:** *[App](https://gatsoundoujuniior-netizen-bxdkpg4wsv2bklsdacxige.streamlit.app/)*
+ **Try the app:** *[App](https://gatsoundoujuniior-netizen-bxdkpg4wsv2bklsdacxige.streamlit.app/)*
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Cardio Risk Predictor is an interactive web application that estimates the **risk of cardiovascular disease** based on physiological measurements and behavioral risk factors. The app leverages a **machine learning model (KNN)** trained and validated on clinical-style data to provide real‑time predictions and visual insights.
 
@@ -22,13 +22,13 @@ Cardio Risk Predictor is an interactive web application that estimates the **ris
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-* 🧠 **Real‑time risk prediction** using a trained ML model
-* 📊 **Interactive visualizations** of risk factors
-* 🎯 **Clean and intuitive UI** powered by Streamlit
-* 📈 **Model validation summary** and metrics display
-* 🔁 **Fast loading** with cached model resources
+*  **Real‑time risk prediction** using a trained ML model
+*  **Interactive visualizations** of risk factors
+*  **Clean and intuitive UI** powered by Streamlit
+*  **Model validation summary** and metrics display
+*  **Fast loading** with cached model resources
 
 ---
 
@@ -51,7 +51,7 @@ Cardio Risk Predictor is an interactive web application that estimates the **ris
 
 ---
 
-## 🧪 Model & Validation
+##  Model & Validation
 
 * **Algorithm:** K‑Nearest Neighbors (KNN)
 * **Preprocessing:** Standard scaling and class imbalance handling (SMOTE via `imbalanced‑learn`)
@@ -69,7 +69,7 @@ Cardio Risk Predictor is an interactive web application that estimates the **ris
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 cardio-risk-predictor/
@@ -105,7 +105,7 @@ The app will be available at: **[app.py](https://gatsoundoujuniior-netizen-bxdkp
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 * streamlit
 * pandas
@@ -116,7 +116,7 @@ The app will be available at: **[app.py](https://gatsoundoujuniior-netizen-bxdkp
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 * Continuous risk score (instead of discrete levels)
 * Improved age weighting
@@ -127,7 +127,7 @@ The app will be available at: **[app.py](https://gatsoundoujuniior-netizen-bxdkp
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -139,13 +139,13 @@ Contributions are welcome!
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Gatsoundou Junior**
 GitHub: [https://github.com/gatsoundoujuniior-netizen](https://github.com/gatsoundoujuniior-netizen)
